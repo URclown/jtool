@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/jtool.iml" filepath="$PROJECT_DIR$/jtool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_common/jtools_common.iml" filepath="$PROJECT_DIR$/jtools_common/jtools_common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_dao/jtools_dao.iml" filepath="$PROJECT_DIR$/jtools_dao/jtools_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_dio/jtools_dio.iml" filepath="$PROJECT_DIR$/jtools_dio/jtools_dio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_service/jtools_service.iml" filepath="$PROJECT_DIR$/jtools_service/jtools_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_web/jtools_web.iml" filepath="$PROJECT_DIR$/jtools_web/jtools_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jtools_webapp/jtools_webapp.iml" filepath="$PROJECT_DIR$/jtools_webapp/jtools_webapp.iml" />
+    </modules>
+  </component>
+</project>
